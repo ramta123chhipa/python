@@ -1,2 +1,2 @@
-name =  input("enter your name: ")
-# print("welcome ", name)
+list.append(4)
+# print(list)

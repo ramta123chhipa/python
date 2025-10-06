@@ -35,4 +35,24 @@ elif(light == "green"):
 elif(light == "yellow"):
     print("look")
 else:
-print("end of code")
+    print("light is broken")
+
+# marks = int(input("enter student marks: "))
+# if(marks >= 90):
+#     grade ="A"
+# elif(marks >= 80 and marks <90):
+#     grade = "B"
+# elif(marks >=70 and marks < 80):
+#     grade = "C"
+# else:
+#     grade ="D"
+
+# print("grade of student is: ",grade)
+
+ 
+
+# x = int(input("enter number: "))
+# if(x % 7 == 0):
+#    print("multiple of 7")
+# else:
+#     print("not a multiple")
